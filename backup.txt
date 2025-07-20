@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
         <meta name="robots" content="index,follow">
-
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <meta name="title" content="Vídeos do Lula - Entrevistas, Discursos e Notícias">
         <meta name="description" content="Assista aos vídeos mais recentes do presidente Lula: discursos, entrevistas, lives e coberturas políticas completas.">
         <meta name="keywords" content="Lula, vídeos do Lula, presidente Lula, discursos do Lula, entrevistas Lula, política brasileira, governo Lula, notícias Lula">
