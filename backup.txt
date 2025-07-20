@@ -22,6 +22,9 @@
 
 
     <style>
+        body{
+            background-color: black;
+        }
         button{
             background-color:rebeccapurple;
             width: 100%;
